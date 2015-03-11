@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pete0283.workshop" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MobileFramework</name>
+    <description>
+This is a sample mobile framwork assignment for MAD and D at Algonquin College    </description>
+    <author email="pete0283@algonquinlive.com" href="http://algonquincollege.com">
+        Keagan Peterson, 2015
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <platform name="android">
+        <preference name="Orientation" value="portrait" />
+        <preference name="android-minSdkVersion" value="18" />
+        <preference name="DisallowOverscroll" value="true" />
+</platform>
+</widget>

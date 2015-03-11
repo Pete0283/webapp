@@ -1,0 +1,19 @@
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes.dex : \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\BuildConfig.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\CordovaApp.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\R$attr.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\R$drawable.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\R$string.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\R$xml.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\com\pete0283\workshop\R.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactInfoDTO.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$4.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\Keagan Peterson\workshop\platforms\android\ant-build\dexedLibs\classes-ef3d1127c608d058344362af538c0c47.jar \

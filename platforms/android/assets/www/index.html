@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height" />
+        <title>Cordova App</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css" />
+        <link href='http://fonts.googleapis.com/css?family=Lato|Roboto' rel='stylesheet' type='text/css'>
+        <script type="text/javascript" src="js/hammer.min.js"></script>  
+        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="js/gelocation.js"></script>
+        <script type="text/javascript" src="js/contacts.js"></script>
+    </head>
+    
+    
+    <body>
+            <header class="apptitle">
+                <h1>Cordova App</h1>
+            </header>
+       
+        <nav>
+<ul class="tabs">
+    <li class="tab"><a href="#home" data-role="pagelink" id="tab1" class="activetab"></a></li>
+    <li class="tab"><a href="#two" data-role="pagelink" id="tab2" class="" ></a></li>
+    <li class="tab"><a href="#three" data-role="pagelink" id="tab3" class=""></a></li>
+</ul>
+</nav>
+
+<section data-role="page" id="home" class="">
+  <h3>Dashboard</h3>
+    <div data-role="content">
+    <p>Welcome to my app! My name is Keagan Peterson, and this is my app that features Cordova Contacts API and Google Maps API.        </p>
+  </div>
+</section>
+    
+<section data-role="page" id="two" class="">
+  <h3>Locations</h3>
+  
+</section>
+
+<section data-role="page" id="three" class="">
+  <h3>Contacts</h3>
+    <div id="holder">
+    <p id="Message"></p>
+    </div>
+    
+    <div data-role="content">
+    <p>Here is where your contacts will be displayed through Cordova Contacts API. Sit tight!</p>
+    
+  </div>
+</section>
+    </body>
+</html>
